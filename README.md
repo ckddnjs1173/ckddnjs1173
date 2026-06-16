@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:6d28d9,100:0ea5e9&height=200&section=header&text=박창원%20·%20Changwon%20Park&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=운영·인사(HR)를%20코드로%20푸는%20사람&descSize=18&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:6d28d9,100:0ea5e9&height=200&section=header&text=%EB%B0%95%EC%B0%BD%EC%9B%90%20%C2%B7%20Changwon%20Park&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%EC%9A%B4%EC%98%81%C2%B7%EC%9D%B8%EC%82%AC%28HR%29%EB%A5%BC%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%ED%91%B8%EB%8A%94%20%EC%82%AC%EB%9E%8C&descSize=18&descAlignY=60" />
 
 <a href="https://github.com/ckddnjs1173">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=520&lines=7년차+운영·인사(HR)+%26+경영관리;스타트업+운영총괄(COO+역할)+%40+VibeEdu;LLM·OCR+기반+업무+자동화+빌더;%22개발자%22보다+문제를+끝까지+완결하는+운영자" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=540&lines=7%EB%85%84%EC%B0%A8%20%EC%9A%B4%EC%98%81%C2%B7%EC%9D%B8%EC%82%AC%28HR%29%20%26%20%EA%B2%BD%EC%98%81%EA%B4%80%EB%A6%AC%3B%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EC%9A%B4%EC%98%81%EC%B4%9D%EA%B4%84%28COO%20%EC%97%AD%ED%95%A0%29%20%40%20VibeEdu%3BLLM%C2%B7OCR%20%EA%B8%B0%EB%B0%98%20%EC%97%85%EB%AC%B4%20%EC%9E%90%EB%8F%99%ED%99%94%20%EB%B9%8C%EB%8D%94%3B%22%EA%B0%9C%EB%B0%9C%EC%9E%90%22%EB%B3%B4%EB%8B%A4%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EB%81%9D%EA%B9%8C%EC%A7%80%20%EC%99%84%EA%B2%B0%ED%95%98%EB%8A%94%20%EC%9A%B4%EC%98%81%EC%9E%90" alt="typing" />
 </a>
 
 <br/>
@@ -103,10 +103,6 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckddnjs1173&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ckddnjs1173&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 
 </div>
 
