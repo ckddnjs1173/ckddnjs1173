@@ -25,7 +25,7 @@
 
 > 화려한 데모보다 실제 업무에서 다시 쓸 수 있는 구조, 검증 가능한 로직, 운영 가능한 흐름을 우선합니다.
 
-## Featured Projects
+## Core Projects
 
 | Project | What it does | Stack / Focus |
 |---|---|---|
@@ -34,7 +34,13 @@
 | **[The Lobby](https://github.com/ckddnjs1173/the-lobby-platform)** | 후보자 포털, Talent Pool, 전형 파이프라인, 채용 분석을 묶은 리크루팅 플랫폼 | Next.js · Firebase · AI Resume Intake |
 | **[Hansung Operations](https://github.com/ckddnjs1173/hansung)** | 작업자·현장·계약·근태·대체근무·청구 업무 통합 관리 프로젝트 | Next.js · TypeScript · Operations Design |
 | **[HR Attendance System](https://github.com/ckddnjs1173/hr-system)** | 권한·RLS·감사 로그를 고려한 근태 관리 애플리케이션 | Next.js · Supabase · PostgreSQL |
-| **[Lotto Stat Engine](https://github.com/ckddnjs1173/lotto-stat-engine)** | 통계적 특징·백테스트·랭킹 실험을 위한 개인 분석 프로젝트 | Python · Backtesting · Streamlit |
+
+## Side Projects / Experiments
+
+| Project | Focus |
+|---|---|
+| **[BTC Futures Assistant](https://github.com/ckddnjs1173/btcgpt)** | 실시간 시장·계정·외부 증거를 수집하는 로컬 의사결정 보조 시스템 |
+| **[Lotto Stat Engine](https://github.com/ckddnjs1173/lotto-stat-engine)** | 통계적 특징, 백테스트, 타입별 랭킹·포트폴리오 실험 |
 
 ## Working Principles
 
