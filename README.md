@@ -32,6 +32,7 @@
 | **[인사야 · hrmanager](https://github.com/ckddnjs1173/hrmanager)** | 노동문제 해결과 사업주 컴플라이언스를 위한 Case 기반 HR/노무 플랫폼 | Node.js · PostgreSQL · Rule / Legal Governance |
 | **[SearchDB](https://github.com/ckddnjs1173/searchDB)** | 후보자·고객사·공고·진행·일정을 한 흐름으로 관리하기 위한 채용 운영 DB | Next.js · TypeScript · Prisma · PostgreSQL |
 | **[The Lobby](https://github.com/ckddnjs1173/the-lobby-platform)** | 후보자 포털, Talent Pool, 전형 파이프라인, 채용 분석을 묶은 리크루팅 플랫폼 | Next.js · Firebase · AI Resume Intake |
+| **[HIPQ](https://github.com/ckddnjs1173/HIPQ)** | 인사관리·임금·법정 계산·위험성평가·계약·결재 등을 모듈화한 HR 운영 플랫폼 | Python · Flask · SQLite · Modular Operations |
 | **[Hansung Operations](https://github.com/ckddnjs1173/hansung)** | 작업자·현장·계약·근태·대체근무·청구 업무 통합 관리 프로젝트 | Next.js · TypeScript · Operations Design |
 | **[HR Attendance System](https://github.com/ckddnjs1173/hr-system)** | 권한·RLS·감사 로그를 고려한 근태 관리 애플리케이션 | Next.js · Supabase · PostgreSQL |
 
