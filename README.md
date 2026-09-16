@@ -69,11 +69,11 @@ Case 기반 HR / 노무 플랫폼
 </td>
 <td width="50%" valign="top">
 
-### [HIPQ](https://github.com/ckddnjs1173/HIPQ)
-인사·임금·법정 계산·계약·결재 등  
-HR 운영 기능을 모듈화한 프로젝트
+### [Hansung Operations](https://github.com/ckddnjs1173/hansung)
+작업자·현장·계약·근태·대체근무·청구 흐름을  
+하나로 연결하는 운영 관리 프로젝트
 
-`Python` `Flask` `SQLite` `HR Operations`
+`Next.js` `TypeScript` `Operations Design`
 
 </td>
 </tr>
@@ -81,7 +81,6 @@ HR 운영 기능을 모듈화한 프로젝트
 
 ### More projects
 
-[**Hansung Operations**](https://github.com/ckddnjs1173/hansung) ·
 [**HR Attendance System**](https://github.com/ckddnjs1173/hr-system) ·
 [**BTC Futures Assistant**](https://github.com/ckddnjs1173/btcgpt) ·
 [**Lotto Stat Engine**](https://github.com/ckddnjs1173/lotto-stat-engine)
