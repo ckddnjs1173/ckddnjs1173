@@ -82,7 +82,6 @@ Case 기반 HR / 노무 플랫폼
 ### More projects
 
 [**HR Attendance System**](https://github.com/ckddnjs1173/hr-system) ·
-[**BTC Futures Assistant**](https://github.com/ckddnjs1173/btcgpt) ·
 [**Lotto Stat Engine**](https://github.com/ckddnjs1173/lotto-stat-engine)
 
 ---
